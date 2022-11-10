@@ -6,7 +6,7 @@
 
   <maintainer email="81685394+HHorimoto@users.noreply.github.com">Hiroto Horimoto</maintainer>
 
-  <license>The Unlicense</license>
+  <license>MIT</license>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
